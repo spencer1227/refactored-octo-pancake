@@ -1,0 +1,85 @@
+body {
+    height: 100%;
+    position: relative;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+section {
+    padding-bottom: 20px;
+}
+
+h2 {
+    margin: 0%;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+h3 {
+    margin: 0%;
+    padding-top: 10px;
+    padding-left: 25px; 
+}
+
+p, ul {
+    margin: 0%;
+    padding-top: 10px;
+    padding-left: 40px; 
+}
+
+.header {
+    width: 100%;
+    height: 100px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.icons {
+    display: flex;
+    background-color: aqua;
+    text-align: center;
+    justify-content: flex-start;
+}
+
+.icons a {
+    display: flex;
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+    background-color: white;
+    border: 5px solid blue;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-photo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+
+}
+
+.pictures {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+
+#pic {
+    padding: 20px;
+}
+
+#about-me {
+    background-color: orange;
+}
+
+#career {
+    background-color: yellowgreen;
+}
+
+#contact {
+    background-color: blueviolet;
+}
