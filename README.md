@@ -39,5 +39,8 @@ Based on the Accepatance Criteria, I need to develop a portfolio of information 
 I used CSS and HTML for this project in order to build and style this website
 
 ## Links
+GitHub Repo: [https://github.com/spencer1227/refactored-octo-pancake]
+Deploy: [https://spencer1227.github.io/refactored-octo-pancake/]
 
 ## Screenshot
+![Screenshot](./assets/photos/Screenshot.png)
